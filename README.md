@@ -12,6 +12,6 @@ Thank you for checking out my profile !
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <br />
-Languages:
+## Languages:
 <br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
