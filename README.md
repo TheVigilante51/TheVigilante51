@@ -12,4 +12,4 @@ Thank you for checking out my profile !
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <br />
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arch,linux,neovim&perline=3)](https://skillicons.dev)
