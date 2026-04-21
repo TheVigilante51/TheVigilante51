@@ -16,4 +16,4 @@ Thank you for checking out my profile !
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
