@@ -14,6 +14,6 @@ Thank you for checking out my profile !
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 <br />
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,bash)](https://skillicons.dev)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
