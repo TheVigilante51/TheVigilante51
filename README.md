@@ -11,7 +11,7 @@ Thank you for checking out my profile !
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 <br />
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
 
