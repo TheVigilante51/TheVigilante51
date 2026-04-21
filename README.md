@@ -8,7 +8,7 @@ Thank you for checking out my profile !
 <br />
 <br />
 
-![CachyOS](https://img.shields.io/badge/OS-CachyOS-88aaee?style=for-the-badge&logo=arch-linux&logoColor=blue)
+![CachyOS](https://img.shields.io/badge/OS-CachyOS-1c9e31?style=for-the-badge&logo=arch-linux&logoColor=blue)
 <br />
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
