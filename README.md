@@ -7,6 +7,9 @@ I seek to learn a lot while spending time in this field.
 Thank you for checking out my profile !
 <br />
 <br />
+
+![CachyOS](https://img.shields.io/badge/OS-CachyOS-88aaee?style=for-the-badge&logo=arch-linux&logoColor=blue)
+<br />
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 <br />
@@ -14,4 +17,3 @@ Thank you for checking out my profile !
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
-![CachyOS](https://img.shields.io/badge/OS-CachyOS-88aaee?style=for-the-badge&logo=arch-linux&logoColor=blue)
