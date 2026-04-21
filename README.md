@@ -14,3 +14,4 @@ Thank you for checking out my profile !
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=arch,neovim&theme=dark)](https://skillicons.dev)
+![CachyOS](https://img.shields.io/badge/OS-CachyOS-88aaee?style=for-the-badge&logo=arch-linux&logoColor=blue)
