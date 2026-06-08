@@ -10,7 +10,6 @@ Thank you for checking out my profile !
 
 ![CachyOS](https://img.shields.io/badge/OS-CachyOS-1c9e31?style=for-the-badge&logo=arch-linux&logoColor=blue)
 <br />
-
 ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
