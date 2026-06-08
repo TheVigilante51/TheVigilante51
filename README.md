@@ -13,8 +13,8 @@ Thank you for checking out my profile !
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 <br />
+![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<br />
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,bash)](https://skillicons.dev)
-## Tools:
-![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
-[![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
