@@ -16,4 +16,5 @@ Thank you for checking out my profile !
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,bash)](https://skillicons.dev)
 ## Tools:
+![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
 [![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
